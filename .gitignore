@@ -1,0 +1,18 @@
+# Rust build output
+/target
+**/target/
+
+# Compiled binaries
+main
+*.exe
+
+# Rust backup files
+**/*.rs.bk
+
+# IDE/editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
